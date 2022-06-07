@@ -1,0 +1,5 @@
+package com.example.demo.currencyconversionservice.entities;
+
+public class CurrencyConversion {
+
+}

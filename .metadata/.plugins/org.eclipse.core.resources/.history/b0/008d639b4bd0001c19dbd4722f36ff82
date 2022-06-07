@@ -1,0 +1,5 @@
+package com.mocroservices.limitsservice.controllers;
+
+public class LimitsController {
+
+}

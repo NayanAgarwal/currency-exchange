@@ -1,0 +1,5 @@
+package com.example.demo.apigateway.configuration;
+
+public class ApiGatewayConfiguration {
+
+}

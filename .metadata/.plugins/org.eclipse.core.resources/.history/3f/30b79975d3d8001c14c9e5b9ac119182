@@ -1,0 +1,5 @@
+package com.example.demo.currencyexchangeservice.repository;
+
+public interface CurrencyExchangeRepository {
+
+}

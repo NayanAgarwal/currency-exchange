@@ -1,0 +1,5 @@
+package com.example.demo.currencyexchangeservice.controllers;
+
+public class CircuitBreakerController {
+
+}
